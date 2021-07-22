@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @codingDude77
-- 👀 I’m interested in web development with Php and Java
-- 🌱 I’m currently learning Computer Technology
-- 💞️ I’m looking to collaborate on Java based program structures
-- 📫 You can reach me @codingDude on Twitter
+public class Intro {
+  public static void main(String[] args) {
+    System.out.println("👋 Hi, I’m @codingDude77");
+    System.out.println("👀 I’m interested in web development with Php and Java");
+    System.out.println("🌱 I’m currently learning Computer Technology");
+    System.out.println("💞️ I’m looking to collaborate on Java based program structures");
+    System.out.println("📫 You can reach me @codingDude77 on Twitter");
+  
+    }
+  }
