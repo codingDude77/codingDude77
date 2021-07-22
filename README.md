@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @codingDude77
+- 👀 I’m interested in web development with Php and Java
+- 🌱 I’m currently learning Computer Technology
+- 💞️ I’m looking to collaborate on Java based program structures
+- 📫 You can reach me @codingDude on Twitter
