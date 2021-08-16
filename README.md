@@ -1,1 +1,1 @@
-Hello there. I an Kevin the programmer interested with Php. Find me on kevinkimanthi78@gmail.com
+Hello there. I am Kevin, a programmer mainly dealing with Php. Find me on kevinkimanthi78@gmail.com
